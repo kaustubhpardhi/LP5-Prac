@@ -1,0 +1,6 @@
+How To Run:
+To Compile:
+gcc -fopenmp mergesort.c
+
+To Run:
+./a.out
